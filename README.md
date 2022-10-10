@@ -14,6 +14,8 @@ python P-MMF.py --gpu=false
 
 W:6.1984 RRQ: 0.9988 MMF: 0.6031
 
+#P-MMF GPU version
+
 python P-MMF.py --gpu=true
 
 W:6.1927 RRQ: 0.9970 MMF: 0.7086
