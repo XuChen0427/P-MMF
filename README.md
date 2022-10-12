@@ -1,6 +1,8 @@
 #This is an anonymous implementation of P-MMF
 
-#The dataset is a processed simulation version for Yelp
+#The dataset is a processed simulation version for 5% Yelp in dataset/yelp/
+
+#the user-item matrix is trained with the BPR in tmp/bpr_yelp_simulation.npy
 
 #The oracel W_{opt}
 
