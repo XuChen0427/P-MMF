@@ -47,7 +47,7 @@ isbn = {978-1-4503-9416-1/23/04},
 publisher = {Association for Computing Machinery},
 address = {Austin, TX, USA},
 doi = {10.1145/3543507.3583296},
-booktitle = {{Proceedings of the ACM Web Conference 2023 (WWW '23)},
-series = {WWW '22}
+booktitle = {Proceedings of the ACM Web Conference 2023 (WWW '23)},
+series = {WWW '23}
 }
 ```
