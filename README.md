@@ -1,4 +1,6 @@
-#This is an anonymous implementation of P-MMF
+# P-MMF: Provider Max-min Fairness Re-ranking in Recommender System of WWW'23
+## Xu Chen, joint Ph.D. student of Renming University of China, GSAI
+Any question, please mail to xc_chen@ruc.edu.cn
 
 #The dataset is a processed simulation version for 5% Yelp in dataset/yelp/
 
