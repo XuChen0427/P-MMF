@@ -16,9 +16,9 @@ W:6.2344 RRQ: 0.9993 MMF: 0.8810
 
 #For the P-MMF CPU version, run
 
-'''bash
+```bash
 python P-MMF.py --gpu=false
-'''
+```
 
 W:6.1984 RRQ: 0.9988 MMF: 0.6031
 
