@@ -8,9 +8,9 @@ Any question, please mail to xc_chen@ruc.edu.cn
 
 #For the offline program oracel W_{opt}, run
 
-'''bash
+```bash
 python oracle.py
-'''
+```
 
 W:6.2344 RRQ: 0.9993 MMF: 0.8810
 
@@ -23,19 +23,22 @@ python P-MMF.py --gpu=false
 W:6.1984 RRQ: 0.9988 MMF: 0.6031
 
 #For the P-MMF GPU version
-'''bash
+```bash
 python P-MMF.py --gpu=true
-'''
+```
 W:6.1927 RRQ: 0.9970 MMF: 0.7086
 
 #For the Min-reguarlizer algorithm, run
 
-'''bash
+```bash
 python min-regularizer.py
-'''
+```
 
 W:6.1567 RRQ: 0.9984 MMF: 0.2222
 
+
+##For citation, please cite the following bib
+```
 @inproceedings{Xu-PMMF-WWW23,
 author = {Xu, Chen and Chen, Sirui and Xu, Jun and Shen, Weiran and Zhang, Xiao and Wang, Gang and Dong, Zhenghua},
 title = {P-MMF: Provider Max-min Fairness Re-ranking in Recommender System},
@@ -47,3 +50,4 @@ doi = {10.1145/3543507.3583296},
 booktitle = {{Proceedings of the ACM Web Conference 2023 (WWW '23)},
 series = {WWW '22}
 }
+```
